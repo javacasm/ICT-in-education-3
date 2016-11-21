@@ -11,3 +11,7 @@
 ![./Licencia CC.png](./images/Licencia_CC.png)
 
 # Facebook
+
+* What do you know about Facebook?
+* Do you have a facebook acount?
+* How many people do use facebook?
