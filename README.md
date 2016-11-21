@@ -25,9 +25,6 @@
 
 #### Schedule - Thursday 24
 
-1º. .
-2º.
-
   09:30 - 11:00 Productivity Tools for the Classroom II (Kahoot,  Google Drive)
 
   11:00 - 11:30 Relaxing Time
