@@ -25,11 +25,11 @@
 
 #### Schedule - Thursday 24
 
-  09:30 - 11:00 Productivity Tools for the Classroom II (Kahoot,  Google Drive)
+  09:30 - 11:00 Productivity Tools for the Classroom II ([Kahoot](./kahoot.md),  [Google Drive](./googleDrive.md))
 
   11:00 - 11:30 Relaxing Time
 
-  11:30 - 13:30 Social Network Tools in the Classroom (Twitter, Facebook)
+  11:30 - 13:30 Social Network Tools in the Classroom ([Twitter](./twitter.md), [Facebook](./facebook.md))
 
 ## [Resources](./resources.md)
 
