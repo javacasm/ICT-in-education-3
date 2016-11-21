@@ -14,24 +14,23 @@
 
 ## Sound: Audacity
 
-[Podcast](./Podcast.md) - [Audio tools](./audioTools.md)
+[Audio tools](./audioTools.md)
 
-¿Anyone online?
+What is a [podcast](./Podcast.md)
+
 
 ## Video: Youtube
 
 [Video tools](./Video.md) - [YouTube](./youtube.md)
 
-### Other tools
-
-avidemux:
- convert
- resync
-
 
 ## Image
 
+[image tools](./images.md)
+
+Where to get free images?
+[Pixabay](https://pixabay.com/)
 
 ### Other tools
 
-gimp
+[gimp](./gimp.md)
