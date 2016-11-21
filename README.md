@@ -18,7 +18,7 @@
 
   11:00 - 11:30 Relaxing Time
 
-  11:30 - 13:00 Searching tools (using google powerfully)
+  11:30 - 13:00 [Searching tools](./SearchingTools.md) (using google powerfully)
 
   13:00 - 13:30 Open Licences: [Open source World](./OpenSourceWorld.md) - [Open Source Tools](./OpenSourceTools.md)
 
@@ -32,5 +32,9 @@
   11:30 - 13:30 Social Network Tools in the Classroom (Twitter, Facebook)
 
 ## [Resources](./resources.md)
+
+## [eTools](./eTools.md)
+
+## [Tasks](./task.md)
 
 ## [Conclusions](./conclusions.md)
