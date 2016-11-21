@@ -14,6 +14,17 @@
 
 Using google "Searching tools" for...
 
+## Images
+
 * Get Free License results
 * Get only some color in the images
 * Get similar image to another (drag a picture in the search box)
+
+## Searching in some sites
+
+Some times, the searching tool of a site doesn't work very well
+
+Then you can use google in order to search that place
+
+
+## Using the google cache
