@@ -20,11 +20,30 @@ Using google "Searching tools" for...
 * Get only some color in the images
 * Get similar image to another (drag a picture in the search box)
 
-## Searching in some sites
+## Searching in some sites site:
 
 Some times, the searching tool of a site doesn't work very well
 
 Then you can use google in order to search that place
 
+## Finding related pages related:
 
-## Using the google cache
+## Using the google cache cache:
+
+## Only a file type ... filetype:
+
+## Advance search
+
+[goolge Advance search](https://www.google.es/advanced_search)
+
+## [Google operators](https://support.google.com/websearch/answer/2466433?visit_id=1-636153684528301396-25286116&p=adv_pages_similar&hl=es&rd=1)
+
+## using google like a calc
+
+## Translating with google
+
+## Google academics: Scholar
+
+## Getting flight info
+
+## Have you ever use google search in yout smartphone?
