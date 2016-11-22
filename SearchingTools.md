@@ -36,7 +36,7 @@ Then you can use google in order to search that place
 
 [goolge Advance search](https://www.google.es/advanced_search)
 
-## [Google operators](https://support.google.com/websearch/answer/2466433?visit_id=1-636153684528301396-25286116&p=adv_pages_similar&hl=es&rd=1)
+## [Google operators](https://support.google.com/websearch/answer/2466433?hl=en)
 
 ## using google like a calc
 
