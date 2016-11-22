@@ -38,11 +38,14 @@ Then you can use google in order to search that place
 
 ## [Google operators](https://support.google.com/websearch/answer/2466433?hl=en)
 
+
 ## using google like a calc
 
 ## Translating with google
 
-## Google academics: Scholar
+## Google academics: [Scholar]((http://scholar.google.com))
+
+## Searching in [books](http://books.google.com)
 
 ## Getting flight info
 
