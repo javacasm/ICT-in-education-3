@@ -43,7 +43,7 @@ Then you can use google in order to search that place
 
 ## Translating with google
 
-## Google academics: [Scholar]((http://scholar.google.com))
+## Google academics: [Scholar](http://scholar.google.com)
 
 ## Searching in [books](http://books.google.com)
 
