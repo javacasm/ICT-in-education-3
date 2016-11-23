@@ -11,3 +11,27 @@
 ![./Licencia CC.png](./images/Licencia_CC.png)
 
 # Google Drive
+
+Google drive is a big folder where you can storage everything that you want.
+
+
+Your Google Drive folder has 15 GB of storage where you include:
+
+* Google Drive
+* Google Photos
+* Gmail
+
+## How to use Google Drive?
+
+* Using a browser, go to [drive.google.com](http://drive.google.com).
+
+* Download the app for Android or iPhone/iPad.
+
+* Download the desktop app to automatically sync files from your computer.
+
+[Getting started to Google Drive](https://support.google.com/drive/answer/2424384?hl=en)
+
+
+## [G Suite](https://gsuite.google.com/together/)
+
+[Several produts](https://gsuite.google.com/products/)
