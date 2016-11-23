@@ -8,7 +8,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![./Licencia CC.png](./images/Licencia CC peque.png)
+![./Licencia CC.png](./images/Licencia_CC.png)
 
 # Sound Tools
 
