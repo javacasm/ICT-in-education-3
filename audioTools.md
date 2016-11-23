@@ -8,16 +8,18 @@
 
 ### José Antonio Vacas @javacasm
 
-![./Licencia CC.png](./images/Licencia_CC.png)
+![./Licencia CC.png](./images/Licencia CC peque.png)
 
+# Sound Tools
 
-# online
+## online
 ### [https://twistedwave.com/online/](https://twistedwave.com/online/)
 ### [https://soundation.com/studio](https://soundation.com/studio)
 ### [https://audioeditor.filelab.com/app](https://audioeditor.filelab.com/app)
 
+## Desktop
 
-# [Audacity](http://audacityteam.org/?lang=en)
+### [Audacity](http://audacityteam.org/?lang=en)
 
 ![Audacity](./images/audacity-macosx.png)
 
