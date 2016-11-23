@@ -35,3 +35,7 @@ Your Google Drive folder has 15 GB of storage where you include:
 ## [G Suite](https://gsuite.google.com/together/)
 
 [Several produts](https://gsuite.google.com/products/)
+
+## Google Apps
+
+## Google Apps for application
