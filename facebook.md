@@ -21,10 +21,24 @@
 
 ## Groups
 
-## Games
+## Games & Apps
+
+## Manage your friends
 
 ## How to find new friends
 
 ## Privacy
+
+You can select who will watch your updates
+
+## Adds
+
+## Events
+
+## Pages
+
+## Messenger
+
+## Mentions / Tag
 
 [Getting started](https://www.facebook.com/help/?helpref=hc_global_nav)
